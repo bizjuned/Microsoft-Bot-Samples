@@ -24,7 +24,7 @@ import com.microsoft.bot.connector.implementation.ConnectorClientImpl;
 import com.microsoft.bot.schema.models.Activity;
 import com.microsoft.bot.schema.models.ActivityTypes;
 
-@WebServlet(urlPatterns = "/rest/in/ai/msbot/*")
+@WebServlet(urlPatterns = "/v4/ms/bot/*")
 public class MicrosftBotServlet extends HttpServlet {
 
 	/**
