@@ -1,2 +1,2 @@
 # MicrosoftBot
-Microsoft bot samples
+Microsoft bot endpoint samples
