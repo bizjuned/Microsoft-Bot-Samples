@@ -1,4 +1,4 @@
-# MicrosoftBot
+# Microsoft Bot Endpoint/Webhook samples
 Microsoft bot endpoint samples(Java) using latest Micrsoft Bot Java SDK. There are two projects in this repo :
 
 1. Spring boot based Micrsoft bot endpoint implementation
